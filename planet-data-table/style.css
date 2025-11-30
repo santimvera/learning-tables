@@ -38,3 +38,7 @@ caption {
 .column-border {
     border: 2px solid black;
 }
+
+.column-fixed-width {
+    width: 40px;
+}
